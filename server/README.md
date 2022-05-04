@@ -17,7 +17,7 @@ DELETE = Apagar informção de uma entidade
 4. Interface Segregation Principle
 5. Dependency INversion Principle
 
-<br><br>
+<br>
 
 1. Cada classe tem uma responsabilidade única
 2. As classes da aplicação devem ser abertas para extensão, mas fechadas para modificação
