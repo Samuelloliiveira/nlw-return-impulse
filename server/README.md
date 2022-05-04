@@ -1,11 +1,11 @@
 
 # MÉTODOS HTTP
 
-Get = Buscar informações
-POST = Cadastrar informações
-PUT = Atualizar informações de uma entidade
-PATCH = Atualizar uma informação única de uma entidade
-DELETE = Apagar informção de uma entidade
+Get = Buscar informações <br>
+POST = Cadastrar informações <br>
+PUT = Atualizar informações de uma entidade <br>
+PATCH = Atualizar uma informação única de uma entidade <br>
+DELETE = Apagar informção de uma entidade <br>
 
 ##
 
