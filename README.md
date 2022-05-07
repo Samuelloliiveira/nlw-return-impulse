@@ -17,3 +17,7 @@ Web https://github.com/Samuelloliiveira/nlw-return-impulse/blob/main/web/README.
 https://nlw-return-impulse-gamma.vercel.app/
 
 <br><br>
+
+### Assistir ao vídeo do projeto:
+
+[![vídeo do projeto]()](https://youtu.be/4axvPSiuYSc "nlw: return tilha impulse")
