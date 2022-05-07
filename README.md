@@ -20,4 +20,4 @@ https://nlw-return-impulse-gamma.vercel.app/
 
 ### Assistir ao vídeo do projeto:
 
-[![vídeo do projeto]()](https://youtu.be/4axvPSiuYSc "nlw: return tilha impulse")
+[![vídeo do projeto](https://github.com/Samuelloliiveira/nlw-return-impulse/raw/main/web/project_image/image_feedback.png)](https://youtu.be/4axvPSiuYSc "nlw: return tilha impulse")
