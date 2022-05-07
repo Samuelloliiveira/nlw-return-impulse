@@ -14,9 +14,7 @@ Web https://github.com/Samuelloliiveira/nlw-return-impulse/blob/main/web/README.
 
 #### Link do projeto na web
 
-https://nlw-return-impulse-gamma.vercel.app/
-
-<br><br>
+https://nlw-return-impulse-gamma.vercel.app/ <br>
 
 ### Assistir ao vídeo do projeto:
 
