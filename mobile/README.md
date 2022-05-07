@@ -3,7 +3,7 @@
 ## Nesse projeto criamos um botão que quando o usuário clica abre um painel onde o mesmo pode escolher uma opção e deixar o seu feedback <br>
 
 <h1 align="center">
-  <img alt="imagem das opções do feedback" title="feedback" src="./project_image/image_feedback.jpg" width="20px" height="100px"/>
+  <img alt="imagem das opções do feedback" title="feedback" src="./project_image/image_feedback.jpg" width="200" height="320"/>
 </h1>
 
 #### DEPENDÊNCIAS: 
