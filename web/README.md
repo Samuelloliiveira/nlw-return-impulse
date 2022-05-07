@@ -26,3 +26,7 @@
 - vite": "^2.9.5"
 
 ##
+
+#### INSTALE OS PACOTES USANDO: npm install
+#### PARA EXECUTAR O PROJETO LOCAL USE O COMANDO: npm run dev
+#### PARA VER O PROJETO NO BROWSER ACESSE: http://localhost:3000/
