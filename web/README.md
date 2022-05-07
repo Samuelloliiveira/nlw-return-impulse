@@ -2,6 +2,10 @@
 
 ## Nesse projeto criamos um botão que quando o usuário clica abre um painel onde o mesmo pode escolher uma opção e deixar o seu feedback <br>
 
+<h1 align="center">
+  <img alt="imagem das opções do feedback" title="feedback" src="./project_image/image_feedback.png" />
+</h1>
+
 #### DEPENDÊNCIAS: 
 
 - @headlessui/react": "^1.6.0"
