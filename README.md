@@ -1,6 +1,6 @@
 # nlw-return-impulse
 
-## Um projeto completo desenvolvido durante a NLW, aqui temos a versão web, mobile, e o servidor. Nesse projetos criamos um botão que quando clicado abre um modal de feedback, o usuário pode: alertar de um BUG, deixar uma ídeia, ou deixar um outro feedback.
+### Um projeto completo desenvolvido durante a NLW, aqui temos a versão web, mobile, e o servidor. Nesse projetos criamos um botão que quando clicado abre um modal de feedback, o usuário pode: alertar de um BUG, deixar uma ídeia, ou deixar um outro feedback.
 
 ##
 
