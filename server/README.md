@@ -1,6 +1,6 @@
 # SERVIDOR DO PROJETO DE FEEDBACK DA NLW RETURN IMPULSE
 
-## Responsável por fazer a conexão com o banco, salvando todos os feedbac bem como o tipo. Aqui também realizamos o envio do email
+### Responsável por fazer a conexão com o banco, salvando todos os feedbac bem como o tipo. Aqui também realizamos o envio do email
 
 #### DEPENDÊNCIAS:
 
